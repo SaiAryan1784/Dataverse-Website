@@ -52,7 +52,7 @@ function NavBar() {
             <li className="nav-item">
               <li
                 exact
-                to="/contact"
+                to="#contact"
                 activeClassName="active"
                 className="nav-links"
               
